@@ -1,7 +1,5 @@
 # openPR
 
-
-
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://github.com/Taufik-H/openPR/blob/main/Taufik-H/assets/hacktoberfestsupport.png?raw=true" alt="Hacktoberfest2022">
@@ -16,12 +14,9 @@
 <a href="https://github.com/Taufik-H/openPR/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Taufik-H/openPR?color=2b9348"></a>
 </div>
 
-
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
-
 > create a new folder and put your project in it.
-
 
 Steps for adding your name below
 
@@ -29,23 +24,28 @@ Steps for adding your name below
     2. Edit `CONTRIBUTERS.md` file
     3. Add your Name also link your github profile
     4. Create your project folder
-    4. Make pull request
-
-
+    5. Make pull request
 
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!--Follow the example below-->
 
 <table>
 <tr>
-<!--example-->
 
-<td align="center"><a href="https://github.com/Taufik-H"><kbd><img src="https://avatars3.githubusercontent.com/Taufik-H?size=400" width="100px;" alt=""/></kbd><br /><sub><b>Taufik-H</b></sub></a><br /><a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> </td>
-
-<!--You can write here-->
-
+<td align="center">
+    <a href="https://github.com/Taufik-H">
+    <kbd>
+        <img src="https://avatars3.githubusercontent.com/Taufik-H?size=400" width="100px;" alt=""/>
+    </kbd>
+    <br />
+        <sub>
+            <b>Taufik-H</b>
+        </sub>
+    </a>
+    <br />
+    <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
+</td>
 
 </tr>
 </table>
@@ -55,5 +55,3 @@ Steps for adding your name below
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Contributions of any kind welcome!
-
-
