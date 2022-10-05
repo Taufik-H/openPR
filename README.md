@@ -46,6 +46,19 @@ Steps for adding your name below
     <br />
     <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
 </td>
+<td align="center">
+    <a href="https://github.com/xcapri">
+    <kbd>
+        <img src="https://avatars3.githubusercontent.com/xcapri?size=400" width="100px;" alt="xcapri"/>
+    </kbd>
+    <br />
+        <sub>
+            <b>xcapri</b>
+        </sub>
+    </a>
+    <br />
+    <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
+</td>
 
 </tr>
 </table>
