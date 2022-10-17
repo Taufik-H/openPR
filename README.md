@@ -59,6 +59,19 @@ Steps for adding your name below
     <br />
     <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
 </td>
+<td align="center">
+    <a href="https://github.com/Fullfifax">
+    <kbd>
+        <img src="https://avatars3.githubusercontent.com/Fullfifax?size=400" width="100px;" alt="Fullfifax"/>
+    </kbd>
+    <br />
+        <sub>
+            <b>Fullfifax</b>
+        </sub>
+    </a>
+    <br />
+    <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
+</td>
 
 </tr>
 </table>
