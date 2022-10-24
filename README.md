@@ -85,8 +85,24 @@ Steps for adding your name below
     <br />
     <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
 </td>
+</tr>
+<tr>
+<td align="center">
+    <a href="https://github.com/syahrulakbar">
+    <kbd>
+        <img src="https://avatars3.githubusercontent.com/syahrulakbar?size=400" width="100px;" alt="kfajarbowo"/>
+    </kbd>
+    <br />
+        <sub>
+            <b>Syahrulakbar</b>
+        </sub>
+    </a>
+    <br />
+    <a href="https://github.com/Taufik-H/openPR/commits?author=Taufik-H" title="Code"> :fire: </a> 
+</td>
 
 </tr>
+
 </table>
 
 <!-- markdownlint-enable -->
